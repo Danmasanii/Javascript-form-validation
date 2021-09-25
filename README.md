@@ -1,1 +1,2 @@
-# Javascript-form-validation
+# Javascript Form Validation
+## Validating user input using JS

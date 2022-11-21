@@ -24,7 +24,8 @@ h2 {
     text-align: center;
     padding: 5px;
 }
-
+.form-container{
+wid}
 form {
     width: 35%;
     margin: 0 auto;
@@ -36,7 +37,7 @@ form {
     background-color: rgba(206, 206, 206, 0.5);
 }
 
-section {
+section {width: 90vw;
     display: flex;
     flex-direction: column;
     justify-content: center;

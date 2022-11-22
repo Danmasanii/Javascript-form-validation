@@ -60,8 +60,8 @@ label {
 }
 
 input {
-width:60vw;
-    padding: 1rem;
+    width:60vw;
+    padding: .7rem;
     border: 1px solid rgb(28, 42, 201);
     border-radius: 4px;
     outline: none;
@@ -82,7 +82,6 @@ width:60vw;
     padding: 0.4rem 1rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    margin-right: 8px;
     background-color: rgb(28, 42, 201);
 }
 

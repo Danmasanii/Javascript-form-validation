@@ -49,7 +49,7 @@ label {
     padding: 0;
 }
 
-.btn-container {
+.btncontainer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -70,7 +70,7 @@ sup {
 
 button {
     cursor: pointer;
-    width:60vw;
+    width:70vw;
     height: 40vh;
 padding: 0.7rem;
     outline: none;
@@ -78,9 +78,9 @@ padding: 0.7rem;
     border-radius: 4px;
     color: #fff;
     font-weight: 500;
-    margin-top: 0.5rem;
+    margintop: 0.5rem;
     margin-bottom: 0.5rem;
-    background-color: rgb(28, 42, 201);
+    backgroundcolor: rgb(28, 42, 201);
 }
 
 .error {

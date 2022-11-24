@@ -49,7 +49,7 @@ label {
     padding: 0;
 }
 
-.btncontainer {
+.btn-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -80,7 +80,7 @@ padding: 0.7rem;
     font-weight: 500;
     margintop: 0.5rem;
     margin-bottom: 0.5rem;
-    backgroundcolor: rgb(28, 42, 201);
+    background-color: rgb(28, 42, 201);
 }
 
 .error {

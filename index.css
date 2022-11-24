@@ -51,8 +51,6 @@ label {
 
 .btn-container {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -71,14 +69,14 @@ sup {
 button {
     cursor: pointer;
     width:70vw;
-    height: 30px;
+    height: 35px;
 padding: 0.7rem;
     outline: none;
     border: none;
     border-radius: 4px;
     color: #fff;
     font-weight: 500;
-    margintop: 0.5rem;
+    margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     background-color: rgb(28, 42, 201);
 }
